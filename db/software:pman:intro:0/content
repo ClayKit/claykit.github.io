@@ -1,7 +1,5 @@
-from: qjf0 to software:pman:intro
-date: 2026-10-24 17:18
-
-pman @alpha 0.6
+pman
+(https://github.com/qjf0/pman)
 
 pman (short for postman) is a formatted delivery tool. Like a mailman, it
 does exactly three things:
